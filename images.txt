@@ -1,5 +1,6 @@
 fabiocicerchia/nginx-lua
 #支持私库
 emqx/neuronex:latest
+emqx/neuron:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
