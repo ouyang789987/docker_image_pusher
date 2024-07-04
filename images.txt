@@ -1,13 +1,12 @@
 fabiocicerchia/nginx-lua
 #支持私库
+#emqx/neuron:latest
+#emqx/ekuiper-manager:latest
+#lfedge/ekuiper:latest
+#neugates/neuron:latest
 emqx/neuronex:latest
-emqx/neuron:latest
-emqx/ekuiper-manager:latest
-lfedge/ekuiper:latest
-neugates/neuron:latest
 emqx/neuronex:2.4.10
 emqx/neuronex:3.0.1
-emqx/neuronex:3.0
 emqx/neuronex:1.0.0-beta.3
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
