@@ -10,6 +10,6 @@ emqx/neuronex:3.0.1
 emqx/neuronex:1.0.0-beta.3
 autogluon/autogluon:1.0.0-cpu-jupyter-ubuntu20.04-py3.10
 #摄像头监控管理平台
-docker pull zoneminderhq/zoneminder:latest-el7
+zoneminderhq/zoneminder:latest-el7
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
