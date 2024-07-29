@@ -13,3 +13,7 @@ autogluon/autogluon:1.0.0-cpu-jupyter-ubuntu20.04-py3.10
 zoneminderhq/zoneminder:latest-el7
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+powerjob/powerjob-worker-samples
+powerjob/powerjob-mysql
+powerjob/powerjob-agent
+powerjob/powerjob-server
