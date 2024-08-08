@@ -4,6 +4,7 @@ fabiocicerchia/nginx-lua
 #emqx/ekuiper-manager:latest
 #lfedge/ekuiper:latest
 #neugates/neuron:latest
+emqx:latest
 emqx/emqx:latest
 emqx/neuronex:latest
 emqx/neuronex:2.4.10
