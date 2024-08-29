@@ -19,3 +19,4 @@ powerjob/powerjob-worker-samples
 powerjob/powerjob-mysql
 powerjob/powerjob-agent
 powerjob/powerjob-server
+percona/proxysql2
