@@ -27,4 +27,5 @@
 #powerjob/powerjob-server
 #percona/proxysql2
 
-dockurr/windows:latest
+#dockurr/windows:latest
+softinstigate/restheart
