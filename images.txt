@@ -29,4 +29,5 @@
 
 #dockurr/windows:latest
 #softinstigate/restheart
-fabiocicerchia/nginx-lua:1.27.1-ubuntu24.04
+#fabiocicerchia/nginx-lua:1.27.1-ubuntu24.04
+nginx:latest
