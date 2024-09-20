@@ -28,4 +28,5 @@
 #percona/proxysql2
 
 #dockurr/windows:latest
-softinstigate/restheart
+#softinstigate/restheart
+fabiocicerchia/nginx-lua:1.27.1-ubuntu24.04
