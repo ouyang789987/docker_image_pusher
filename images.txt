@@ -30,5 +30,6 @@
 #dockurr/windows:latest
 #softinstigate/restheart
 #fabiocicerchia/nginx-lua:1.27.1-ubuntu24.04
-nginx:latest
-node:latest
+#nginx:latest
+#node:latest
+anapsix/alpine-java:8_server-jre_unlimited
