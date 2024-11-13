@@ -35,5 +35,6 @@
 #anapsix/alpine-java:8_server-jre_unlimited
 #mysql:5.7.44
 #mysql:8.0.40
-redis/redis-stack-server:latest
-mongo
+#redis/redis-stack-server:latest
+#mongo
+sibedge/postgres-plv8:latest
