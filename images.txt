@@ -37,4 +37,5 @@
 #mysql:8.0.40
 #redis/redis-stack-server:latest
 #mongo
-sibedge/postgres-plv8:latest
+#sibedge/postgres-plv8:latest
+--platform=linux/arm64 sibedge/postgres-plv8:latest
