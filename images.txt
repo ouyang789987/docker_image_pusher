@@ -39,3 +39,4 @@
 #mongo
 #sibedge/postgres-plv8:latest
 --platform=linux/arm64 sibedge/postgres-plv8:latest
+--platform=linux/arm64 postgrest/postgrest:latest
