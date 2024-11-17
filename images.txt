@@ -38,5 +38,7 @@
 #redis/redis-stack-server:latest
 #mongo
 #sibedge/postgres-plv8:latest
---platform=linux/arm64 sibedge/postgres-plv8:latest
---platform=linux/arm64 postgrest/postgrest:latest
+#--platform=linux/arm64 sibedge/postgres-plv8:latest
+#--platform=linux/arm64 postgrest/postgrest:latest
+debian:11.11
+ubuntu:22.04
