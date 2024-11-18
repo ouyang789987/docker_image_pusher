@@ -42,3 +42,4 @@
 #--platform=linux/arm64 postgrest/postgrest:latest
 debian:11.11
 ubuntu:22.04
+alibabadragonwell/dragonwell:8.16.17-extended-ga-anolis
