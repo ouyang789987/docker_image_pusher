@@ -40,6 +40,8 @@
 #sibedge/postgres-plv8:latest
 #--platform=linux/arm64 sibedge/postgres-plv8:latest
 #--platform=linux/arm64 postgrest/postgrest:latest
-debian:11.11
-ubuntu:22.04
-alibabadragonwell/dragonwell:8.16.17-extended-ga-anolis
+#debian:11.11
+#ubuntu:22.04
+#alibabadragonwell/dragonwell:8.16.17-extended-ga-anolis
+kibana:6.8.11
+elasticsearch:6.8.11
