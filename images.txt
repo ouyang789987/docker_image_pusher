@@ -45,5 +45,6 @@
 #alibabadragonwell/dragonwell:8.16.17-extended-ga-anolis
 #kibana:6.8.11
 #elasticsearch:6.8.11
-pgvector/pgvector:pg17
-supersonicbi/supersonic:latest
+#pgvector/pgvector:pg17
+#supersonicbi/supersonic:latest
+docker.io/library/golang:1.24.0-windowsservercore-ltsc2025
