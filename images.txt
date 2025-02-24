@@ -47,4 +47,5 @@
 #elasticsearch:6.8.11
 #pgvector/pgvector:pg17
 #supersonicbi/supersonic:latest
-docker.io/library/golang:1.24.0-windowsservercore
+elastic/elasticsearch:7.17.15
+kibana:7.17.15
