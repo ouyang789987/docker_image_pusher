@@ -6,8 +6,8 @@
 #lfedge/ekuiper:latest
 #neugates/neuron:latest
 
-emqx:latest
-emqx/emqx:latest
+#emqx:latest
+#emqx/emqx:latest
 #emqx/neuronex:latest
 #emqx/neuronex:2.4.10
 #emqx/neuronex:3.0.1
@@ -49,3 +49,4 @@ emqx/emqx:latest
 #supersonicbi/supersonic:latest
 #elastic/elasticsearch:7.17.15
 #kibana:7.17.15
+nodered/node-red
