@@ -49,4 +49,5 @@
 #supersonicbi/supersonic:latest
 #elastic/elasticsearch:7.17.15
 #kibana:7.17.15
-nodered/node-red
+#nodered/node-red
+redis/redis-stack-server:latest
