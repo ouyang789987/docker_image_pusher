@@ -50,4 +50,5 @@
 #elastic/elasticsearch:7.17.15
 #kibana:7.17.15
 #nodered/node-red
-redis/redis-stack-server:latest
+#redis/redis-stack-server:latest
+gitlab/gitlab-ce:15.5.1
