@@ -52,4 +52,5 @@
 #nodered/node-red
 #redis/redis-stack-server:latest
 #gitlab/gitlab-ce:15.5.1-ce.0
-infiniflow/ragflow:v0.17.0
+#infiniflow/ragflow:v0.17.0
+rustscan/rustscan
