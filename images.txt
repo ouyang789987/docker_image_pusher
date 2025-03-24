@@ -55,3 +55,4 @@
 #infiniflow/ragflow:v0.17.0
 #rustscan/rustscan
 node:22.14.0
+987846/paddleocr:latest
