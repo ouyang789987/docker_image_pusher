@@ -57,3 +57,4 @@
 node:22.14.0
 987846/paddleocr:latest
 --platform=linux/arm64 987846/paddleocr:latest
+lonacn/vision_simple:0.4.0-rknpu-arm64
