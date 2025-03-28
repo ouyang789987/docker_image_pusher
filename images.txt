@@ -59,3 +59,4 @@ node:22.14.0
 --platform=linux/arm64 987846/paddleocr:latest
 #lonacn/vision_simple:0.4.0-rknpu-arm64
 lonacn/vision_simple:0.4.1-cpu-arm64
+redis:5.0.5
