@@ -60,4 +60,7 @@
 #lonacn/vision_simple:0.4.0-rknpu-arm64
 #lonacn/vision_simple:0.4.1-cpu-arm64
 #redis:5.0.5
-styletang/rocketmq-console-ng
+#styletang/rocketmq-console-ng
+
+debian:bookworm
+--platform=linux/arm64 arm64v8/debian:bookworm-slim
