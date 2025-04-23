@@ -62,5 +62,6 @@
 #redis:5.0.5
 #styletang/rocketmq-console-ng
 
-debian:bookworm
---platform=linux/arm64 arm64v8/debian:bookworm-slim
+#debian:bookworm
+#--platform=linux/arm64 arm64v8/debian:bookworm-slim
+python:3.10-bookworm
