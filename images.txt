@@ -65,4 +65,5 @@
 #debian:bookworm
 #--platform=linux/arm64 arm64v8/debian:bookworm-slim
 #python:3.10-bookworm
-alash3al/sqler:latest
+#alash3al/sqler:latest
+--platform=linux/arm64 cloudgrin/wxocr:latest
